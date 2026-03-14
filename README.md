@@ -96,7 +96,7 @@ Software development student at BYU-Idaho building practical applications across
 
 </tr>
 </table>
----
+
 ## Featured Projects
 
 Projects representing my work in backend systems, full-stack development, cloud infrastructure, data systems, and machine learning.
@@ -149,9 +149,13 @@ Working through AWS cloud labs involving virtual private networks, EC2 instances
 
 ## GitHub Statistics
 
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&theme=default)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&theme=default" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact" height="160"/>
+
+</p>
 
 
 ## Contribution Streak
