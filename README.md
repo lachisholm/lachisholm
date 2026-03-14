@@ -323,10 +323,6 @@ GitHub: https://github.com/lachisholm
 LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 
 ---
-## Featured Projects
-
-[![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
-
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
