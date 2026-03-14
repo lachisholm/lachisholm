@@ -12,20 +12,10 @@ Full-Stack Software Developer • Web Systems • AI / Machine Learning • Clou
 </p>
 Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
 
-🏔️ Utah
-🌎 USA  
-🎓 Software Development — BYU-Idaho  
-🔗 LinkedIn: https://www.linkedin.com/in/lora-chisholm/  
-💻 GitHub: https://github.com/lachisholm
-
-
+>
 
 <p align="center">
-Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems.
-</p>
-
-<p align="center">
-🏔️ Utah &nbsp;|&nbsp; 🎓 BYU-Idaho &nbsp;|&nbsp;
+🏔️ Utah &nbsp;|🌎 USA &nbsp;| &nbsp; 🎓 BYU-Idaho &nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/lora-chisholm/">LinkedIn</a> &nbsp;|&nbsp;
 <a href="https://github.com/lachisholm">GitHub</a>
 </p>
