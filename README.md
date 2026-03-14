@@ -96,15 +96,6 @@ Software development student at BYU-Idaho building practical applications across
 
 </tr>
 </table>
-
-### Technologies I Work With
-
-
-
-
-
-
-
 ---
 ## Featured Projects
 
@@ -167,12 +158,7 @@ Working through AWS cloud labs involving virtual private networks, EC2 instances
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lachisholm)
 
-## Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lachisholm)
-
-
-Architecture & Technical Interests
 
 ## Architecture & Technical Interests
 
@@ -350,27 +336,6 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 
 
 ---
-
-## GitHub Stats
-
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&theme=default)
-
----
-
-
-## GitHub Dashboard
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact) 
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&count_private=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
-
 ## Featured Projects
 
 [![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
@@ -384,8 +349,6 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
-
-## Contribution Graph
 
 ![snake animation](https://github.com/lachisholm/lachisholm/blob/output/github-contribution-grid-snake.svg)
 
