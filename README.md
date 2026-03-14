@@ -97,7 +97,7 @@ Software development student at BYU-Idaho building practical applications across
 </tr>
 </table>
 
-## Featured Projects
+## Featured Projects (Sorry - Under construction!)
 
 Projects representing my work in backend systems, full-stack development, cloud infrastructure, data systems, and machine learning.
 
@@ -156,13 +156,6 @@ Working through AWS cloud labs involving virtual private networks, EC2 instances
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact" height="160"/>
 
 </p>
-
-
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lachisholm)
-
-
 
 ## Architecture & Technical Interests
 
