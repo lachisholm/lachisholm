@@ -240,15 +240,6 @@ VS Code
 Command Line / Terminal
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
-
-## Currently Learning
-
-• Advanced backend API architecture  
-• Cloud infrastructure with AWS  
-• Machine learning concepts and data systems  
-• Secure software development practices
 ## Coursework & Areas of Study
 
 My coursework at BYU-Idaho includes projects and labs covering multiple areas of modern software development:
@@ -323,14 +314,13 @@ I enjoy collaborating on projects that involve solving technical problems, build
 
 • Full-stack web development  
 • Backend API design  
-• Node.js and MongoDB  
+• Node.js, MongoDB, Render
 • Cloud infrastructure concepts  
 • Software development coursework
 ## Connect With Me
 
 GitHub: https://github.com/lachisholm  
 LinkedIn: https://www.linkedin.com/in/lora-chisholm/
-
 
 ---
 ## Featured Projects
