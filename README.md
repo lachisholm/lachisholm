@@ -306,21 +306,6 @@ Quantitative reasoning and decision making
 Working with datasets and analytical tools
 
 ---
-
-## Current Projects
-
-### Fleet Master API
-Team backend project implementing a REST API using Node.js and MongoDB.  
-Includes authentication using GitHub OAuth, database integration, and API documentation.
-
-### Garden Design Planner
-Web application designed to help users plan garden layouts and plant placement using frontend technologies and dynamic data.
-
-### Coursework Projects
-Various programming assignments and labs focusing on secure coding, API development, data exploration, and web application design.
-
----
-
 ## Featured Projects
 
 [![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
@@ -384,15 +369,6 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&count_private=true)
 
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
-
-
-## GitHub Dashboard
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
 
 ## Featured Projects
@@ -408,19 +384,6 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
-
-
-## Featured Projects
-
-### Fleet Master API
-Team backend project implementing a REST API using Node.js, MongoDB, and GitHub OAuth authentication.
-
-### Garden Design Planner
-Web application designed to help plan garden layouts and plant placement.
-
-### Coursework Projects
-Assignments and labs covering backend APIs, secure coding practices, cloud infrastructure, and frontend development.
-
 
 ## Contribution Graph
 
