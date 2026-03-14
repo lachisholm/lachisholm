@@ -348,5 +348,4 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 
 ## Development Philosophy
 
-I believe software should be built with clarity, reliability, and maintainability in mind.  
-I enjoy designing systems that are easy to understand, scalable, and practical for real-world use.
+I believe software should be built with clarity, reliability, and maintainability in mind. I enjoy designing systems that are easy to understand, scalable, and practical for real-world use.
