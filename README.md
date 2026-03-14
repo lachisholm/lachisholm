@@ -10,6 +10,15 @@
 <p align="center">
 Full-Stack Software Developer • Web Systems • AI / Machine Learning • Cloud Infrastructure
 </p>
+Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
+
+🏔️ Utah
+🌎 USA  
+🎓 Software Development — BYU-Idaho  
+🔗 LinkedIn: https://www.linkedin.com/in/lora-chisholm/  
+💻 GitHub: https://github.com/lachisholm
+
+
 
 <p align="center">
 Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems.
@@ -42,7 +51,7 @@ Software development student at BYU-Idaho building practical applications across
 
 
 
-## Hi there 👋
+
 
 <!--
 **lachisholm/lachisholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,17 +68,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Lora Chisholm 👋
 
-Full-Stack Software Developer | Web Systems, APIs & Data Engineering | AI / Machine Learning | Cloud Infrastructure
-
-Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
-
-🏔️ Utah
-🌎 USA  
-🎓 Software Development — BYU-Idaho  
-🔗 LinkedIn: https://www.linkedin.com/in/lora-chisholm/  
-💻 GitHub: https://github.com/lachisholm
 
 
 ---
