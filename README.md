@@ -1,3 +1,47 @@
+![Profile Views](https://komarev.com/ghpvc/?username=lachisholm)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Systems+%26+APIs;AI+%2F+Machine+Learning;Cloud+Infrastructure&center=true&width=600&height=50&color=DADADA&background=000000">
+</p>
+
+
+<h1 align="center">Hi, I'm Lora Chisholm 👋</h1>
+
+<p align="center">
+Full-Stack Software Developer • Web Systems • AI / Machine Learning • Cloud Infrastructure
+</p>
+
+<p align="center">
+Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems.
+</p>
+
+<p align="center">
+🏔️ Utah &nbsp;|&nbsp; 🎓 BYU-Idaho &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/lora-chisholm/">LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://github.com/lachisholm">GitHub</a>
+</p>
+
+---
+
+
+## Technologies I Work With
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="45"/>
+</p>
+
+
+
 ## Hi there 👋
 
 <!--
@@ -11,20 +55,159 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-# I'm Lora Chisholm,
 
-## About Me
-I am a software development student at BYU-Idaho focused on building practical applications and developing strong technical foundations in software engineering, cloud systems, and data-driven technologies. I enjoy solving complex problems, designing APIs, and learning how modern software systems operate from the frontend interface down to the infrastructure layer.
+# Hi, I'm Lora Chisholm 👋
 
-My academic work and personal projects span backend development, web technologies, cloud computing, security principles, data analysis, and system design.
+Full-Stack Software Developer | Web Systems, APIs & Data Engineering | AI / Machine Learning | Cloud Infrastructure
+
+Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
+
+🏔️ Utah
+🌎 USA  
+🎓 Software Development — BYU-Idaho  
+🔗 LinkedIn: https://www.linkedin.com/in/lora-chisholm/  
+💻 GitHub: https://github.com/lachisholm
+
 
 ---
+## Featured Projects
+
+Projects representing my work in backend systems, full-stack development, cloud infrastructure, data systems, and machine learning.
+
+<p align="center">
+
+<a href="https://github.com/lachisholm/REPOSITORY-NAME-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-1" />
+</a>
+
+<a href="https://github.com/lachisholm/REPOSITORY-NAME-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-2" />
+</a>
+
+<a href="https://github.com/lachisholm/REPOSITORY-NAME-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-3" />
+</a>
+
+<a href="https://github.com/lachisholm/REPOSITORY-NAME-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-4" />
+</a>
+
+<a href="https://github.com/lachisholm/REPOSITORY-NAME-5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-5" />
+</a>
+
+<a href="https://github.com/lachisholm/REPOSITORY-NAME-6">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-6" />
+</a>
+
+</p>
 
 ## Tech Stack
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+</p>
+
+
+## 🚧 What I'm Building Right Now
+
+🔹 **Fleet Master API**  
+A backend API built with Node.js, Express, and MongoDB as part of a collaborative team project.  
+Features include RESTful endpoints, database integration, and GitHub OAuth authentication.
+
+🔹 **Garden Design Planner**  
+A web application designed to help plan garden layouts and plant placement using frontend technologies and dynamic data.
+
+🔹 **Software Development Coursework Projects**  
+Assignments and labs involving secure coding practices, API development, cloud infrastructure concepts, and full-stack application design.
+
+🔹 **Exploring Artificial Intelligence & Machine Learning**  
+Learning the foundations of machine learning and how AI systems integrate with real-world software applications.
+
+🔹 **Cloud Infrastructure with AWS**  
+Working through AWS cloud labs involving virtual private networks, EC2 instances, and cloud architecture principles.
+
+## GitHub Statistics
+
+![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
+
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lachisholm)
+
+## Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lachisholm)
+
+
+Architecture & Technical Interests
+
+## Architecture & Technical Interests
+
+🧩 **Full-Stack System Design**  
+Designing applications that connect frontend interfaces, backend APIs, and databases into cohesive systems.
+
+🔗 **API Architecture**  
+Designing RESTful APIs, authentication systems, and service integrations.
+
+☁️ **Cloud Infrastructure**  
+Understanding scalable systems built on AWS and cloud networking environments.
+
+📊 **Data Systems**  
+Working with databases, structured data, and application data flows.
+
+🤖 **Artificial Intelligence & Machine Learning**  
+Exploring machine learning integration within modern applications.
+
+🔐 **Secure Software Development**  
+Applying security principles including authentication, validation, and defensive coding practices.
+
+## Engineering Principles
+
+🧠 **Clarity over complexity**  
+Software should be understandable, maintainable, and well structured.
+
+🧱 **Design before implementation**  
+Careful planning of architecture and data flow produces stronger systems.
+
+🔐 **Security and reliability matter**  
+Applications should be built with validation, authentication, and safe coding practices.
+
+⚙️ **Build systems that scale**  
+Modular design and clean architecture support growth and future development.
+
+📚 **Continuous learning**  
+Technology evolves constantly, and I enjoy expanding my knowledge across software systems, cloud technologies, and emerging fields like AI.
+
+## Current Development Focus
+
+My current development work and studies are focused on building practical systems that combine modern web development, data systems, and cloud infrastructure.
+
+🧱 **Backend Systems**  
+Designing and implementing RESTful APIs, authentication systems, and database integrations using technologies such as Node.js, Express, and MongoDB.
+
+🌐 **Full-Stack Applications**  
+Developing applications that connect responsive frontend interfaces with backend services and persistent data systems.
+
+🤖 **Artificial Intelligence & Machine Learning**  
+Exploring machine learning concepts and understanding how intelligent systems integrate with real-world software applications.
+
+☁️ **Cloud Infrastructure**  
+Learning how modern applications are deployed, scaled, and managed using cloud platforms such as AWS.
 
 ### Programming Languages
 Python  
@@ -57,6 +240,14 @@ Command Line / Terminal
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
+
+## Currently Learning
+
+• Advanced backend API architecture  
+• Cloud infrastructure with AWS  
+• Machine learning concepts and data systems  
+• Secure software development practices
 ## Coursework & Areas of Study
 
 My coursework at BYU-Idaho includes projects and labs covering multiple areas of modern software development:
@@ -112,6 +303,12 @@ Various programming assignments and labs focusing on secure coding, API developm
 
 ---
 
+## Featured Projects
+
+[![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
+
+[![Garden Planner](https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=garden-design-planner)](https://github.com/lachisholm/garden-design-planner) 
+
 ## Current Learning Focus
 
 Backend system design  
@@ -136,7 +333,13 @@ Data systems and automation
 I enjoy collaborating on projects that involve solving technical problems, building practical applications, and learning new technologies through hands-on experience.
 
 ---
+## Ask Me About
 
+• Full-stack web development  
+• Backend API design  
+• Node.js and MongoDB  
+• Cloud infrastructure concepts  
+• Software development coursework
 ## Connect With Me
 
 GitHub: https://github.com/lachisholm  
@@ -151,7 +354,32 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 
 ---
 
+
+## GitHub Dashboard
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact) 
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&count_private=true)
+
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
+
+
+## GitHub Dashboard
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact)
+
+## Featured Projects
+
+[![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
 
 ## Technologies
 
@@ -181,3 +409,13 @@ Assignments and labs covering backend APIs, secure coding practices, cloud infra
 ![snake animation](https://github.com/lachisholm/lachisholm/blob/output/github-contribution-grid-snake.svg)
 
 
+## Development Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lachisholm&theme=github-light&hide_border=true" />
+</p>
+
+## Development Philosophy
+
+I believe software should be built with clarity, reliability, and maintainability in mind.  
+I enjoy designing systems that are easy to understand, scalable, and practical for real-world use.
