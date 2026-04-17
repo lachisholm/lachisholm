@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
 Full-Stack Software Developer • Web Systems • AI / Machine Learning • Cloud Infrastructure
 </p>
-Software development student at BYU-Idaho building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
-
+Software developer building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
 >
 
 <p align="center">
