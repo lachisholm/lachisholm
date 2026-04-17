@@ -100,31 +100,7 @@ Software developer building practical applications across frontend interfaces, b
 
 Projects representing my work in backend systems, full-stack development, cloud infrastructure, data systems, and machine learning.
 
-<p align="center">
 
-<a href="https://github.com/lachisholm/REPOSITORY-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-1" />
-</a>
-
-<a href="https://github.com/lachisholm/REPOSITORY-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-2" />
-</a>
-
-<a href="https://github.com/lachisholm/REPOSITORY-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-3" />
-</a>
-
-<a href="https://github.com/lachisholm/REPOSITORY-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-4" />
-</a>
-
-<a href="https://github.com/lachisholm/REPOSITORY-NAME-5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-5" />
-</a>
-
-<a href="https://github.com/lachisholm/REPOSITORY-NAME-6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=REPOSITORY-NAME-6" />
-</a>
 
 </p>
 
