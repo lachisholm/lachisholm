@@ -270,18 +270,6 @@ Data systems and automation
 
 I enjoy collaborating on projects that involve solving technical problems, building practical applications, and learning new technologies through hands-on experience.
 
----
-## Ask Me About
-
-• Full-stack web development  
-• Backend API design  
-• Node.js, MongoDB, Render
-• Cloud infrastructure concepts  
-• Software development coursework
-## Connect With Me
-
-GitHub: https://github.com/lachisholm  
-LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 
 ---
 ## Technologies
