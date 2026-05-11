@@ -122,15 +122,6 @@ Learning the foundations of machine learning and how AI systems integrate with r
 🔹 **Cloud Infrastructure with AWS**  
 Working through AWS cloud labs involving virtual private networks, EC2 instances, and cloud architecture principles.
 
-## GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&theme=default" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact" height="160"/>
-
-</p>
 
 ## Architecture & Technical Interests
 
