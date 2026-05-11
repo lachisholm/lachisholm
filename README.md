@@ -286,8 +286,6 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 
-![snake animation](https://raw.githubusercontent.com/lachisholm/lachisholm/output/github-contribution-grid-snake.svg)
-
 ## Development Activity
 
 <p align="center">
