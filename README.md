@@ -76,18 +76,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## Featured Projects
-
-Projects representing my work in backend systems, full-stack development, cloud infrastructure, data systems, and machine learning.
-
 ## 🚧 What I'm Building Right Now
-
-🔹 **Fleet Master API**  
-A backend API built with Node.js, Express, and MongoDB as part of a collaborative team project.  
-Features include RESTful endpoints, database integration, and GitHub OAuth authentication.
-
-🔹 **Garden Design Planner**  
-A web application designed to help plan garden layouts and plant placement using frontend technologies and dynamic data.
 
 🔹 **Software Development Coursework Projects**  
 Assignments and labs involving secure coding practices, API development, cloud infrastructure concepts, and full-stack application design.
@@ -229,12 +218,6 @@ Quantitative reasoning and decision making
 Working with datasets and analytical tools
 
 ---
-
-## Featured Projects
-
-[![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
-
-[![Garden Planner](https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=garden-design-planner)](https://github.com/lachisholm/garden-design-planner)
 
 ## Current Learning Focus
 
