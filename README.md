@@ -246,11 +246,6 @@ Quantitative reasoning and decision making
 Working with datasets and analytical tools
 
 ---
-## Featured Projects
-
-[![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
-
-[![Garden Planner](https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=garden-design-planner)](https://github.com/lachisholm/garden-design-planner) 
 
 ## Current Learning Focus
 
@@ -296,7 +291,6 @@ LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-Framework-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 
 ![snake animation](https://github.com/lachisholm/lachisholm/blob/output/github-contribution-grid-snake.svg)
