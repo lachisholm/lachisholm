@@ -15,94 +15,70 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=lachisholm)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Systems+%26+APIs;AI+%2F+Machine+Learning;Cloud+Infrastructure&center=true&width=600&height=50&color=DADADA&background=000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+Systems+%26+APIs;AI+%2F+Machine+Learning;Cloud+Infrastructure&center=true&width=600&height=50&color=DADADA&background=00000000" alt="Typing intro" />
 </p>
-
 
 <h1 align="center">Hi, I'm Lora Chisholm 👋</h1>
 
 <p align="center">
-Full-Stack Software Developer • Web Systems • AI / Machine Learning • Cloud Infrastructure
+  Full-Stack Software Developer • Web Systems • AI / Machine Learning • Cloud Infrastructure
 </p>
-Software developer building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies like machine learning integrate with modern software platforms.
->
 
 <p align="center">
-🏔️ Utah &nbsp;|🌎 USA &nbsp;| &nbsp; 🎓 BYU-Idaho &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/lora-chisholm/">LinkedIn</a> &nbsp;|&nbsp;
-<a href="https://github.com/lachisholm">GitHub</a>
+  Software developer building practical applications across frontend interfaces, backend APIs, and cloud systems. I enjoy solving complex problems, designing reliable systems, and exploring how emerging technologies can be applied to real-world software.
+</p>
+
+<p align="center">
+  🏔️ Utah &nbsp;|&nbsp; 🌎 USA &nbsp;|&nbsp; 🎓 BYU-Idaho &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/lora-chisholm/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/lachisholm">GitHub</a>
 </p>
 
 ---
+
 ## Technologies I Work With
 
 <table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<br>Python
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<br>JavaScript
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<br>HTML5
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<br>CSS3
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<br>Node.js
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<br>Express
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<br>MongoDB
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<br>Git
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<br>GitHub
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<br>VS Code
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-<br>AWS
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/><br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/><br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/><br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS"/><br>AWS
+    </td>
+  </tr>
 </table>
 
-## Featured Projects (Sorry - Under construction!)
+## Featured Projects
 
 Projects representing my work in backend systems, full-stack development, cloud infrastructure, data systems, and machine learning.
-
-
-
-</p>
 
 ## 🚧 What I'm Building Right Now
 
@@ -122,6 +98,12 @@ Learning the foundations of machine learning and how AI systems integrate with r
 🔹 **Cloud Infrastructure with AWS**  
 Working through AWS cloud labs involving virtual private networks, EC2 instances, and cloud architecture principles.
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lachisholm&show_icons=true&theme=default" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachisholm&layout=compact" height="160" alt="Top languages"/>
+</p>
 
 ## Architecture & Technical Interests
 
@@ -206,6 +188,7 @@ VS Code
 Command Line / Terminal
 
 ---
+
 ## Coursework & Areas of Study
 
 My coursework at BYU-Idaho includes projects and labs covering multiple areas of modern software development:
@@ -247,6 +230,12 @@ Working with datasets and analytical tools
 
 ---
 
+## Featured Projects
+
+[![Fleet Master API](https://github-readme-stats.vercel.app/api/pin/?username=DaleMcBride211&repo=fleet-master-api)](https://github.com/DaleMcBride211/fleet-master-api)
+
+[![Garden Planner](https://github-readme-stats.vercel.app/api/pin/?username=lachisholm&repo=garden-design-planner)](https://github.com/lachisholm/garden-design-planner)
+
 ## Current Learning Focus
 
 Backend system design  
@@ -270,8 +259,23 @@ Data systems and automation
 
 I enjoy collaborating on projects that involve solving technical problems, building practical applications, and learning new technologies through hands-on experience.
 
+---
+
+## Ask Me About
+
+• Full-stack web development  
+• Backend API design  
+• Node.js, MongoDB, Render  
+• Cloud infrastructure concepts  
+• Software development coursework
+
+## Connect With Me
+
+GitHub: https://github.com/lachisholm  
+LinkedIn: https://www.linkedin.com/in/lora-chisholm/
 
 ---
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
@@ -279,15 +283,15 @@ I enjoy collaborating on projects that involve solving technical problems, build
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-Framework-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 
-![snake animation](https://github.com/lachisholm/lachisholm/blob/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://raw.githubusercontent.com/lachisholm/lachisholm/output/github-contribution-grid-snake.svg)
 
 ## Development Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lachisholm&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lachisholm&theme=github-light&hide_border=true" alt="Development activity graph" />
 </p>
 
 ## Development Philosophy
